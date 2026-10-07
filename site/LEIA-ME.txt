@@ -1,0 +1,6 @@
+ATELIER — DEMONSTRAÇÃO
+
+Abra index.html no Chrome ou Edge. Use apenas dados de ensaio.
+A aplicação guarda apenas neste navegador, sem conta ou sincronização.
+A edição é contínua, com visualização paginada separada.
+Word e PDF/A ainda por validar para entregas. As imagens são fictícias.
