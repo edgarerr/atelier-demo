@@ -10,7 +10,9 @@ Demonstração com dados e imagens fictícios. O projeto de desenvolvimento e os
 
 ## Abrir como aplicação
 
-O repositório está criado e os ficheiros foram enviados. A ativação inicial de GitHub Pages exige uma ação do proprietário: **Settings → Pages → Build and deployment → Source: GitHub Actions**. O workflow não tem permissão para criar essa configuração por si só. Depois de a publicação terminar, usar o endereço indicado pelo GitHub no deployment. Não considerar o site ativo apenas porque os ficheiros estão neste repositório.
+**[Abrir a demonstração](https://edgarerr.github.io/atelier-demo/)**
+
+Publicação confirmada pelo GitHub Pages em 7 de outubro de 2026: workflow [37664542099](https://github.com/edgarerr/atelier-demo/actions/runs/37664542099), estado Success. O proprietário ativou GitHub Actions em Settings → Pages. O repositório de desenvolvimento e os anexos originais mantêm-se privados.
 
 ## O que pode experimentar
 
