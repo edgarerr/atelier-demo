@@ -16,10 +16,12 @@ Publicação confirmada pelo GitHub Pages em 7 de outubro de 2026: workflow [376
 
 ## O que pode experimentar
 
-- Alterar dados no painel direito e conferir os campos nos documentos.
+- Alterar dados em Informação e Áreas, à esquerda, e conferir os campos nos documentos.
 - Modificar áreas e observar os resultados calculados.
 - Editar texto e inserir campos com `/`.
 - Conferir capa, índice e páginas.
+- Experimentar os painéis translúcidos e as ferramentas à direita ao editar.
+- Guardar observações locais por documento e regressar à lista de projetos.
 - Exportar para Word ou usar a impressão do navegador para gerar PDF.
 
 ## Limites desta versão
