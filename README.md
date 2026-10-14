@@ -33,3 +33,5 @@ Usar apenas dados fictícios. Os dados são guardados neste navegador, sem conta
 A edição é contínua, com visualização paginada separada. A edição diretamente nas páginas, a fidelidade do Word em Windows/macOS e PDF/A continuam por validar. Não utilizar para entregas.
 
 Esta distribuição contém apenas a aplicação compilada, imagens fictícias, instruções e licenças. Não inclui histórico ou documentos do repositório privado. Consultar `site/LICENCAS.txt`. Nenhum serviço pago foi contratado.
+
+Atualização arca de 14 de outubro de 2026 publicada com sucesso: [execução 38586795850](https://github.com/edgarerr/atelier-demo/actions/runs/38586795850), commit `1ac4108`.
