@@ -16,21 +16,20 @@ Publicação confirmada pelo GitHub Pages em 7 de outubro de 2026: workflow [376
 
 ## O que pode experimentar
 
-- Identidade arca, Geist/Geist Mono e três projetos independentes.
-- Abrir a informação de um projeto ou continuar na última secção/documento.
-- Acrescentar campos e balões de áreas, decompor totais e inserir os novos valores nos documentos.
-- Editar os muros nas três tabelas com identificação comum; o total manual anterior é conservado até escolher decomposição.
-- Pesquisa por botão ou ⌘/Ctrl K, zoom, estados na barra superior e observações locais.
-- Fontes, tamanhos, cores, espaçamento entre linhas, hifenização experimental e tabelas com células unidas, preenchimento e contornos horizontais.
-- Vários layouts mestres de texto normal em Opções do documento → Layouts mestres. Guardar um mestre não altera documentos existentes.
-- Escolher a imagem de fundo na página dos projetos; fica neste navegador. O fundo incluído é uma aproximação provisória da referência, não o ficheiro original.
-- Exportar Word ou imprimir para PDF.
+- Início do projeto e criação com operações combináveis; o quadro mostra as situações correspondentes em conjunto.
+- Áreas extensíveis, decomposição e novas fórmulas de soma/subtração com valores ligados.
+- Navegação por ícones, pesquisa por ⌘/Ctrl K, zoom compacto, estados e observações.
+- Imagem ou cor por projeto, sem seletor de fundo geral para o utilizador.
+- Campos automáticos identificados ao clicar, caixas de texto e fontes próprias TTF/OTF.
+- Texto, tabelas, hifenização experimental e layouts mestres de texto normal, acessíveis na barra superior.
+- Documentos de texto e PDFs importados: campos de formulário ou textos sobrepostos com ligações aos dados; exportação do PDF preenchido.
+- Word e impressão para PDF nos documentos de texto.
 
 ## Limites desta versão
 
 Usar apenas dados fictícios. Os dados são guardados neste navegador, sem contas, sincronização ou revisões protegidas. A cópia publicada é uma demonstração HTML autónoma: abrir o endereço online exige ligação; não foi instalada a cache offline completa da futura aplicação.
 
-A edição é contínua, com visualização paginada separada. A edição diretamente nas páginas, a fidelidade do Word em Windows/macOS e PDF/A continuam por validar. Não utilizar para entregas.
+A edição é contínua, com visualização paginada separada. A edição diretamente nas páginas, a fidelidade do Word em Windows/macOS e PDF/A continuam por validar. Não utilizar para entregas. PDFs importados precisam de ensaio com os formulários reais das entidades; XFA, assinaturas digitais e conformidade PDF/A não são suportados nesta prova. Fontes importadas não são incorporadas no Word: devem estar instaladas no computador. Caixas de texto acompanham o fluxo do documento; não são objetos flutuantes.
 
 Esta distribuição contém apenas a aplicação compilada, imagens fictícias, instruções e licenças. Não inclui histórico ou documentos do repositório privado. Consultar `site/LICENCAS.txt`. Nenhum serviço pago foi contratado.
 

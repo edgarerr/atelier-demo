@@ -1,6 +1,8 @@
-ATELIER — DEMONSTRAÇÃO
+ARCA — DEMONSTRAÇÃO 0.4
 
-Abra index.html no Chrome ou Edge. Use apenas dados de ensaio.
-A aplicação guarda apenas neste navegador, sem conta ou sincronização.
-A edição é contínua, com visualização paginada separada.
-Word e PDF/A ainda por validar para entregas. As imagens são fictícias.
+Use a demonstração online ou abra index.html num navegador compatível.
+Os projetos, PDFs e fontes importadas ficam apenas neste navegador, sem sincronização.
+A edição de texto é contínua, com visualização paginada separada.
+PDFs importados têm preenchimento experimental: testar com os formulários reais das entidades.
+Fontes próprias: TTF/OTF. Para Word, instalar a fonte também no computador.
+Word e PDF/A continuam por validar para entregas. Imagens e dados iniciais fictícios.
