@@ -1,4 +1,4 @@
-# Atelier — demonstração de peças escritas
+# arca — demonstração de peças escritas
 
 Demonstração com dados e imagens fictícios. O projeto de desenvolvimento e os anexos originais continuam privados.
 
@@ -16,13 +16,15 @@ Publicação confirmada pelo GitHub Pages em 7 de outubro de 2026: workflow [376
 
 ## O que pode experimentar
 
-- Alterar dados em Informação e Áreas, à esquerda, e conferir os campos nos documentos.
-- Modificar áreas e observar os resultados calculados.
-- Editar texto e inserir campos com `/`.
-- Conferir capa, índice e páginas.
-- Experimentar os painéis translúcidos e as ferramentas à direita ao editar.
-- Guardar observações locais por documento e regressar à lista de projetos.
-- Exportar para Word ou usar a impressão do navegador para gerar PDF.
+- Identidade arca, Geist/Geist Mono e três projetos independentes.
+- Abrir a informação de um projeto ou continuar na última secção/documento.
+- Acrescentar campos e balões de áreas, decompor totais e inserir os novos valores nos documentos.
+- Editar os muros nas três tabelas com identificação comum; o total manual anterior é conservado até escolher decomposição.
+- Pesquisa por botão ou ⌘/Ctrl K, zoom, estados na barra superior e observações locais.
+- Fontes, tamanhos, cores, espaçamento entre linhas, hifenização experimental e tabelas com células unidas, preenchimento e contornos horizontais.
+- Vários layouts mestres de texto normal em Opções do documento → Layouts mestres. Guardar um mestre não altera documentos existentes.
+- Escolher a imagem de fundo na página dos projetos; fica neste navegador. O fundo incluído é uma aproximação provisória da referência, não o ficheiro original.
+- Exportar Word ou imprimir para PDF.
 
 ## Limites desta versão
 
